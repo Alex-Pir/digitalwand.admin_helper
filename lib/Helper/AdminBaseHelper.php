@@ -841,7 +841,7 @@ abstract class AdminBaseHelper
 			return $errors;
 		}
 		else {
-			return false;
+			return [];
 		}
 	}
 
